@@ -8,3 +8,7 @@ Students are faced with countless assignments and are subjected to the responsib
 ### How It Works? / Features?
 ChemPics can be personalized to your needs and preferences. The home page will present you with the Periodic Table of Elements, and the bottom bar will present you with four options to take you to the different screens, Home, Equations, Diagrams, and Profile. The Equations screen layout is simple and easy to use. The user can choose to either manually insert their formula or scan it using their device’s camera. The app will then load the chemical equation’s full name form and its properties. Some properties include, state of matter, density, molar mass, etc. The Diagrams page also requires the user to insert their desired formula. The page will then load a diagram and a detailed breakthrough of the elements and their structure in the compound. The name of the substance will also be provided. The last page presented is the profile page, where the user can enter their personal information such as their grade and name to personalize their app and provide a more homely feel. 
 
+### Screen: https://xd.adobe.com/view/d951ccd1-d6e2-4cee-8ce0-ebb5d87f8564-8c02/
+
+### Grid Version: https://xd.adobe.com/view/d951ccd1-d6e2-4cee-8ce0-ebb5d87f8564-8c02/grid
+
